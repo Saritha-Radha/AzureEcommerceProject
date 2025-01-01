@@ -1,0 +1,9 @@
+{
+	"name": "adf-project-ecom-ingestion-training",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2bbe5849-f8ab-4cd8-8370-bdd2ac4457be",
+		"tenantId": "b9c6d33d-d424-4f5e-814e-f79945b26976"
+	}
+}
